@@ -27,7 +27,7 @@ This repository is a **standalone extension based on IsaacLab** for simulating a
 
 ### 2. Install Isaac Sim
 
-Follow the official [Isaac Sim installation guide](https://docs.omniverse.nvidia.com/isaacsim/latest/installation.html).
+Follow the official [Isaac Sim installation guide](https://docs.isaacsim.omniverse.nvidia.com/latest/installation/quick-install.html).
 
 ### 3. Install IsaacLab
 
