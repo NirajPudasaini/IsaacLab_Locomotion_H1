@@ -20,9 +20,10 @@ This repository is a **standalone extension based on IsaacLab** for simulating a
 
 ### 1. System Requirements
 
-> **Note:** Please refer to the [IsaacLab System Requirements](https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/index.html) and ensure your system meets the necessary specifications.  
-> *(If you have a `system_requirements.png` in your `demos/` folder, you can embed it here:)*  
-> `![System Requirements](demos/system_requirements.png)`
+> **System Requirements:**  
+> Please review the [IsaacLab System Requirements](https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/index.html) to ensure your system is compatible.
+
+![System Requirements](demos/sys_req.png)
 
 ### 2. Install Isaac Sim
 
