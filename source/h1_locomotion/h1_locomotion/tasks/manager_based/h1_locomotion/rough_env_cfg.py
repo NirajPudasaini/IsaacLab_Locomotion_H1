@@ -13,8 +13,7 @@ from isaaclab_tasks.manager_based.locomotion.velocity.velocity_env_cfg import Lo
 ##
 # Pre-defined configs
 ##
-from isaaclab_assets import H1_MINIMAL_CFG  # isort: skip
-
+from unitree import H1_MINIMAL_CFG  # isort: skip
 
 @configclass
 class H1Rewards(RewardsCfg):
