@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # H1 Locomotion: Standalone IsaacLab Extension for Unitree H1 on Rough Terrain
 
 ![Demo: H1 Locomotion in Rough Terrain](demos/h1_rough_play.gif)
@@ -80,12 +79,12 @@ python3 scripts/rsl_rl/play.py --task Template-H1-Locomotion-Play-v0 --num_envs 
 
 ---
 
-## Author
-
+### Author
 Niraj Pudasaini  
 nirajpudasaini13@gmail.com
-=======
-# Template for Isaac Lab Projects
+
+=========================================
+# Template for Isaac Lab Projects (Original Instruction)
 
 ## Overview
 
